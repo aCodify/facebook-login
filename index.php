@@ -1,5 +1,6 @@
 <?php
 session_start(); 
+
 ?>
 <!doctype html>
 <html xmlns:fb="http://www.facebook.com/2008/fbml">
